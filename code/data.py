@@ -114,11 +114,11 @@ def read_map_file(filename):
     return maps
 
 def load_const_maps(dataset, split):
-    filename = join("./outputs", dataset, 'map-%s.txt' % (split))
+    filename = join("./datasets", dataset, 'map-%s.txt' % (split))
     return read_map_file(filename)
 
 def load_exs(dataset, split):
-    filename = join("./outputs", dataset, 'exs-%s.txt' % (split))
+    filename = join("./datasets", dataset, 'exs-%s.txt' % (split))
     lines = read_lines(filename)
     lines = [x.split(" ") for x in lines]
     lines = [[(y.split(",", 1)[0], y.split(",", 1)[1])
@@ -126,7 +126,7 @@ def load_exs(dataset, split):
     return lines
 
 def load_rec(dataset, split):
-    filename = join("./outputs", dataset, 'rec-%s.pkl' % (split))
+    filename = join("./datasets", dataset, 'rec-%s.pkl' % (split))
     with open(filename, "rb") as f:
         rec = pickle.load(f)
     return rec
