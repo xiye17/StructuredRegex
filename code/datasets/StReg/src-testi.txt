@@ -1,0 +1,629 @@
+a list of 5 strings . the first string consist of 3 + const0 and second string consist of 1 - 3 const1 that is optional and third string consist of 2 digit and fourth string consist of 3 - 4 capital and final string consist of 3 + const0 .
+a string which starts with more than 2 letters const0 and it ends with 1 to 4 lowercase letters
+there are the only 2 part of the strings . the first part of the string consist 2 or more const0 . the next part of the contains the 1 to 4 lowercase .
+the string starts with 4 lowercase letters followed by 1 to 2 letters and then 4 lowercase letters after which there are 3 to 4 letters . the string ends with a capital letter .
+a string starts with 4 lowercase characters and ends with a capital letter . in between , there is another sequence of 4 lowercase characters , preceded by 1 or 2 letters and followed by 3 or 4 extra letters .
+a list of 2 strings . first string consist of 1 or more digit numeric . last string consist of const0 or const1 that is optional
+a string that starts with 1 or more digits and optionally ends with const0 or const1 .
+this pattern can be formed by any string that starts with 1 or more lowercase letters , followed by a digit or letter , another 3 or more letters , and ends with exactly 2 const0 digits .
+there are list of 4 strings . first string consist 1 + lowercase . second string consist digit or letter . third string consist 3 + letter . and last string consist 2 const0 numeric value .
+a string starting with at least 1 capital const0 followed by at least 2 lowercase letters . after that there will be another capital const0 or more with the number const1 or const2 at the end .
+a string starts with a sequence of at least 1 uppercase letter const0 , followed by at least 2 lowercase letters , another sequence of at least 1 uppercase letter const0 and finally the digit const1 or const2 .
+the string starts with 3 to 4 numbers or letters , and the end of string which is optional should be of 4 letters .
+a 3 to 4 digits or letters string , followed by another string of 4 letters , which is optional
+the string starts with a period or exclamation mark , followed by either a const0 or const1 . next there are 1 to 4 const2 , followed by either const3 or const4 . it ends with 2 or more numbers .
+i want to enter capital letter in first string and second 1 with 2 digit and separated with dash andnext string with a capital and next with 2 digit next separate by a dash and the final string consist of 2 digit
+the string begins with 2 or more lowercase const0 followed by 3 numbers . an uppercase const1 must come next . next is either const2 or const3 . optionally , it can end with 3 or 4 capital letters .
+the string must begin with 2 or more letter const0 . after this grouping , it is a 3 digit number . after this 3 digit number , there a letter const1 . after the letter const1 , the string must contain const2 or const3 . the string can end with an optional string of 3 to 4 capital letters .
+a list of 3 strings . a first string consist 1 - 3 capital that is optional . second string consist 2 + digit numeric value . and last string consist 3 + const0 numeric value .
+the string starts with an optional 1 - 3 capital letters and then more than 2 digits , and it ends with more than 3 const0
+a string with optional 2 - 3 letters , then 3 const0 .
+there are 2 strings first is optional with 2 to 3 letters and the second 1 follows with 3 + +
+a list of 3 strings . first sring consist of 2 or more digits numeric value , second stringconsist of 1 to 3 capital letters or that is optinal part . the last string consist of 2 or more digits numeric value .
+a list of 3 strings . the first and last string consist 2 or more digit numeric value . the second of the string consist 1 to 3 capital that is optional
+a list of 3 strings . first string consist 1 - 2 capital . next string consist 1 + lowercase . last string consist 1 - 2 capital .
+the string starts with 1 to 2 capital letters after which there is more than 1 lowercase letters . the string ends with 1 to 2 capital letters .
+the string starts and ends with 2 or more capital letters . the middle part consists of 1 or more lowercase letters .
+a string starting with 2 or more capital letters , then 1 or more lower case letters , then 2 or more capital letters .
+a list of 2 strings . first string consist of 1 + const0 ( optional ) . second string consist of 3 to 4 digit numberic value
+a list of 2 strings . the first string consist of 1 + const0 that is optional and final string consist of 3 - 4 digit .
+a list of 5 strings first and third string consist of const0 or const1 second and fourth string consist of const2 or const3 and the final string is optional with 1 + const4
+the string is the letter const0 followed by at least 1 more letter .
+a list of 2 strings . first string match of const0 . last string consist by 1 or more letters .
+there are 2 strings . first string consist by symbols that is optional . last string consist by 2 to 4 letters
+a string that starts with 2 - 4 letters and optionally ends with const0 or const1 .
+a string that starts with 2 - 3 letters , followed by 3 lowercase letters and ending with 3 - 4 capital letters .
+there are 3 strings . first string consist 2 to 3 letter . the next string consist 3 lowercase and last string consist 3 to 4 capital .
+a list of 5 string . the first string consist of 3 - 4 letter and second string consist of 1 - 4 lowercase that is optional and third string consist of 3 - 4 letter and fourth string consist by 1+capita + that is optional and final string consist of 3 - 4 letter .
+there are 5 strings . one , three and last strings consist by 3 to 4 letters . second strings consist by 1 to 4 lowercase that is optional . fourth strings consist by 1 or more capital letters that is optional .
+a string starts with 3 characters that are not digits and ends with either 2 digits or 2 capital letters . inbetween , there may be a sequence of any length of letters and digits .
+the string starts with 3 characters which are not numbers and then more than 1 letter or number which are optional . the string ends either with 2 number or 2 capital letters .
+a string that must start with 3 or more capital letters , followed by 3 or more digits , followed only by a const0 capital letter or a lowercase const1 , and to end with 2 to 4 letters .
+there are list of 4 strings first 1 contains three+ capital letters next string need 3 + digits third 1 contains const0 or const1 and the final string contains 2 - 4 letters
+a string starting with 2 - 4 capitals , followed by 3 - 4 const0 , then an optional lowercase letter . after that , 2 - 4 capital letters , followed by 3 - 4 letters .
+a list of 5 strings . a first 1 consist 2 to 4 capital and the next string consists 3 to 4 const0 . the third string consists should be an optional . the fourth string consists 2 to 4 capital the last string contains 3 to 4 letter .
+there are 3 strings . first string consist by 2 or more lowercase . second string consist 3 to 4 const0 . last string consist 1 to 4 const1 .
+a string that begins with 2 or more lowercase letters , then 3 - 4 const0 followed by 1 - 4 const1 .
+a list of 3 strings . first string consist of 1 to 4 lowercase , second string consist of 2 letters , last string consist of 1 to 4 lowercase .
+the string begins and ends with 1 to 4 lowercase letters . these parts are separated by any 2 letters .
+the string starts with 3 lowercase letters , and it ends with more than 3 letters .
+a list of 2 strings . first string consist 3 lowercase . last string consist 3 + letter .
+there are 5 strings . first strings consist 3 or more digit numeric values . second string consist by 2 or more lowercase . third string consist by 2 to 4 capital letters . fourth strings consist by 2 or more letter of const0 . last string consist by 4 const1
+a list of 3 strings . the first string consist of 2 capital and second string consist of 2 - 3 digit and final string consist of 1 - 3 letter .
+a list of 3 strings . first string consist of 2 capital letters . second string consist of 2 to 3 digit numbers . last string consist of 1 to 3 letters .
+there are 2 strings . first string consist const0 or const1 . and final string consist 1 or more capital .
+a list of 2 strings . first string consist of const0 or const1 , last string consist of 1 or more captital letters .
+a string with 2 - 4 digits , then an optional 1 - 3 lowercase letters or digits
+a list of first string consist by 2 - 4 digit and next string consist by 1 - 3 lowercase or digit that is optional
+a list of 2 strings . the first string consist of 2 - 3 capital and final string consist of 3 - 4 digit or capital that is optional .
+there are 2 strings are included . the first part of the 2 to 3 capital letter . the last part consist the 3 to 4 digit or capital letter that is a optional
+there are list of 4 strings . first string contains const0 or const1 . followed by a i are optional . next string contains const0 or const1 . last string contains 3 + digit that is optional .
+the string starts with either lowercase const0 or const1 and then is followed by an optional lower case const2 . after that comes another lowercase const0 or const1 followed by 3 + digits which is optional .
+the string starts with 4 characters which are not lowercase letters followed by 1 to 3 numbers and then 3 to 4 lowercase letters . the string ends with 3 letters .
+this string starts with 4 characters that are not lowercase letters , followed by 1 - 3 digits . then there are 3 or 4 lowercase letters , followed by 3 more letters ( upper or lowercase ) .
+a list of 5 strings . first string consist of 3 to 4 lowercase . second strings consist of 1 to 2 capital letters . third string consist of const0 or const1 value . fourth string consist of 1 to 3 capital letters . last string consist of 3 or more lowercase .
+a list of const0 strings . first string consist of 3 to 4 lowercase , second string consist of 1 to 2 captital letters , third string consist of const0 or const1 numeric value , fourth string consist of 1 to 3 captital letters , last string consist of 3 or more lowercase
+a list of 3 strings . first string consist of const0 or const1 second string consist of 3 to 4 const2 that is optional . last string consist by 1 to 2 not capital latters .
+a list of 3 strings . the first string consist of const0 or const1 and second string consist of 3 - 4 const2 that is optional and final string consist of 1 - 2 not capital .
+a string consists of 3 groups of 2 to 4 capital letters . there should be 2 digits between the first and second group of letters . optionally , there might be a sequence of at least 3 special characters between the second and the last groups of capital letters .
+a list of 5 strings . the first string consists of 2 - 4 capital and second string consists of 2 digit and third string consists of 2 - 4 capital and fourth string consists of 3 + not letter that is optional and final string consists of 2 - 4 capital .
+a list of 3 comma separated strings . they must be 3 or more characters long and can have digits , capital letters and const0 . they must start with 2 const1 or 2 const2 .
+a list of 3 strings separated by commas . all 3 strings have the same rule set . they each must be at least 3 characters long and start with const0 or const1 . the remaining characters can be capital letters , digits or const2
+a list of the 9 strings . first and fifth string consist the 1 or more lowercase . second and sixth string consist the 1 or more the lowercase of const0 . third and seventh string consist the 4 digit numeric value and followed by a next string is the dot symbol . eighth string consist the dot symbol . the last string consist allow the digit and capital letters .
+a string starting with 1 or more lowercase letters , 1 or more letter const0 followed by 4 random digits and a period . that process should be repeated once again followed by any random number of digits or capital letters .
+the string contains 2 decimals . it has to end with either 3 or 4 number threes . the first value before the period must be a digit . after the first period you can use between 2 to 5 digits or letters .
+a list of 3 strings separated by a dot . the first 1 contains digits , the second 1 contains digits or letters and must have length 2 to 5 . the last string is either 3 or 4 consecutive const0 digits
+there are 6 part of the strings and the first 1 contains is const0 or const1 . the next string contains 2 to 4 letters followed by the next string was the full stop symbol . the next another part of the fourth and last string contains the allow the capital letters but the const2 and the fifth string part has contains the full stop symbol
+a list of 3 dash separated strings . they must start with 2 - 3 const0 , followed by 2 digits .
+a dash separated list of strings , where each string consists of 2 to 3 uppercase letters const0 followed by 2 digits .
+a list of 3 semi - colon separated strings . the first must be lowercase letters . the other 2 must start with 2 const0 followed by more than 3 letters .
+any amount of lowercase letters begins the string , followed by a semi - colon ( const0 ) and 2 capital const1 directly after semi - colon . after 2 const1 , need 3 or more letters ( lowercase or uppercase ) . after letters , have another semi - colon ( const0 ) , another 2 capital const1 and 3 or more letters ( lowercase or uppercase ) .
+a list of 3 comma separated strings . they can only have letters , can not start with const1 and can not end with const0 .
+the list contains 3 comma separated strings , and each string must end with const0 . optionally , const0 can be preceded by other letters , but the strings can not begin with const1 .
+a semicolon separated list of 3 strings . each of the first 2 strings is either const0 or const1 . the third string is built out of letters and/or the digit 1 .
+there are 5 strings . first and third strings consist by const0 or const1 . second and fourth string consist by semicolon symbols . last strings consist by allowed capital and lowercase , const2
+three dot separated strings of any length consist of capital letters . none of the strings may begin with const0 or const1 .
+this string will conist of 3 sections divided by periods . capital letters are allowed . the first letter of each section canot contain the letter const0 or the combination of the letters const1
+the first part of the string consists of numbers then a dash after which there are either wl or const0 present then there is a const1 after which there is a dash that is followed by either wl or const0 . the string ends with const1
+a string consists of 3 groups separated by dashed . the first group may only contain digits . each of the remaining groups is either the sequence const0 or const1 .
+the string consists of 3 parts separated by a dash . in the first part only letters and digits const1 and const0 are allowed . the other 2 parts are sequences of maximum 4 letters that must start with a const2
+a string starting with a combination of random letters and/or the numbers const0 and const1 followed by a hyphen , a lowercase letter const2 and 0 - 3 additional letters . this should be followed by a hyphen , a lowercase letter const2 and 10 0 - 3 additional letters .
+a list of 3 dash separated strings . the first is only const0 . in the second , letters and numbers are allowed . and in the third only letters are allowed .
+a list of 3 sequences separated by dash . the first is the letter const0 plus 4 letters const1 , the second sequence consists of a lowercase letter or digits . the third is just letters .
+the list consists of 3 semicolon separated strings . the first 2 can be any length . the first string can use lowercase letters and numbers , and the second can use uppercase and lowercase letters and numbers . the third string consists of 3 lowercase letters
+the beginning of string consists of numbers and lowercase letters after which there is a semicolon and then the middle part of the string consists of letters and numbers followed by a semicolon . the end of the string has 3 lowercase letters .
+there are list of seperated strings first 1 contains const0 . followed by dot . next string with single digit . next string contains 2 + + . followed by a dot . last string with 2 - 4 digit numeric value .
+the list consists of 3 dot separated strings . the first string is a single lowercase const0 . the second begins with a number that is followed by 2 or more capital const1 . the third string consists of 2 to 4 numbers .
+a list of arbitrary length of strings separated by semi - colons . the strings have 4 or less characters and can have lowercase letters and digits .
+four or less numbers or lowercase letters . separate each set with a semicolon ( const0 ) with any number of sets ( 1 set minimum ) .
+a string contains the sequence const1 , preceded by 2 or more digits . the sequence may be followed by 2 to 4 digits const0 . finally , the string ends with a group of 4 digits .
+there area the 6 string . the first string consist the allow the digit numeric value but is the greater than value of the length between the 2 . second and fourth part will be the same of the dash symbol . third is match the uppercase of const0 and the optional of the fifth part string consist the 2 to 4 const1 . last string consist the 4 digit numeric value .
+there are the 7 part of the strings . the first and fourth part of strings consist by a 3 to 4 digit numeric value or 3 to 4 lowercase and the next second and fifth string consist by a 1 to 3 lowercase letters and the third and sixth part strings are the semicolon symbol and the last of the allow the lowercase but only a length of the 3 .
+a list of 3 semi - colon separated strings . the frst 2 must start with 3 - 4 digits or 3 - 4 lowercase letters followed by 1 - 3 lowercase letters . the third must be 3 lowercase letters .
+the string consists of 1 or 2 of the letter const0 , followed by 3 or 4 letters , then a dash , then 3 or 4 letters , then a dash , then a final 3 or 4 letters .
+a list of 6 strings . a first string consist the 1 to 2 const0 and the second , fourth and last string consist by a 3 to 4 letters only . finally a third and the fifth strings are consist by a dash
+a list of 3 semi - colon separated strings . the first must be const0 or const1 . the other 2 must start with 3 digits or 3 lowercase letters , must be 1 - 4 characters long and can have digits , lowercase and capital letters .
+a list of 3 comma separated strings of lowercase letters .
+two strings separated by a comma with . allow : lowercase and the final string also consist of . allow : lowercase after a comma .
+the string should not start with lowercase or capital letter even though it contains a capital letter and it ends with a character which is not special and then it followed by a capital letter
+the strings must contain capital letters , can not stat with a lowercase or capital letters and can not end with a special character followed by a capital letter .
+this pattern matches any string that is no longer than 8 characters , none of them being capital letters , or a repated const0 lowercase character .
+a string of length 8 characters or less , does not have 2 const0 , and has no capitals .
+this string allows lowercase letters . it may not begin with the letters const0 or the sequence of the letters const1 .
+a string consist of lowercase letters . it could not start with a const1 or const0 and allowed lowercase letters .
+the string does not end with a letter .
+a string may not end with a letter .
+string must have const1 , must not end with a special character and must not contain lowercase + const0 .
+the string can not have a lowercase letter followed by a const0 . it must have a const1 and can not end with a special character .
+a string that does not start with const0 .
+the string can contain any characters and can be any length , but it must not start with const0 .
+the first and last string consist of contain captial letter , if have special character must be after digit , no lowercase
+a string containing at least 1 capital letter . special characters are allowed only after a digit . there can not be lowercase letters .
+any string that does nt start with a special character
+the string can be any length , but it can not begin with a special character
+this pattern is formed by any combination where the first character is a lowercase letter , const1 letter is not used , and it ends with any lowercase letter that is not const0
+the string can not contain const1 and must start and end with a lowercase letter . in the end there can not be const0 .
+a string longer than 6 characters starting with a capital letter , followed by any combination of capital letters or special characters as long as the total number of capital letters is not 3 .
+the string must begin with a capital letter . it then has 5 or more special characters or capital letters , but the string can not contain 3 capital letters in a row .
+the string must be 6 to 8 characters long . it can not contain the sequence const0 , and it must end with a lowercase letter followed by a capital letter .
+the string has 6 to 8 characters and does not contain const0 . the string ends with lowercase letter after which there is a capital letter .
+the string does not have special characters . the string ends with a letter .
+this pattern matches any string starting with const3 , followed by any lowercase letters and/or capital const1 and/or const2 characters , and does not end with the substring const0
+the string consists of letters const1 or const2 and lowercase letters . the string must start with const3 , and the string must not end with const0 .
+this string starts with 3 special characters , but can not start with 3 const1 . the string can have optional characters after the special characters , but it can not have the pattern const0 in it .
+the string must not have const0 in it . the string starts with 3 special characters which must not be 3 const1 .
+the string must have letter in it .
+the first and last string consist of have letter
+a numeric value of maximum 10 digits that contains const1 and ends with const2 . it can not start with const0 .
+a string of length less than or equal to 10 , that consists of numbers and const1 . it may not begin with const0 and must end with const2 .
+this pattern matches any string starting with 3 digits but not with the const0 one
+the string starts with 3 numbers but not 3 number const0 .
+the string has numbers which must be after lowercase letters .
+the part of string consist of every digit must be after lowercase .
+the first and last string consist by allowed lowercase and digit numeric value .
+sequence of lowercase letters and any digits . all other symbols are also allowed .
+this single string can be any length , but it has to start with a capital const0 or a lowercase const1
+a string consist by letters it must be start with a letters const0 or const1
+a string consists of letters , or special character . the upperscore are 3 capital letter or 3 special character . the lenght > = 4
+this pattern matches any string that starts with a special character or capital letter , and contain any character , excluding lowercase letters .
+the string consists of capital letters , numbers and special characters . the string must start with either a special character or a capital letter .
+the string is 1 or more digits , letters , or the character const0 . the string can not contain the pattern const1 and can not end with 3 digits .
+a string consisting of letters , numbers and the character const0 , which can not be followed by const1 . at the end of the string can not contain a sequence of 3 numbers .
+a string consists of no capital then 2 letter . it not must start with a lowercase letter and can not have underscore in the end .
+a string that does not start with a lowercase letter and does not contain a capital followed by 2 letters .
+the string must be less than 9 characters and does not contain the letters const0 in that sequence .
+a string which has a length of 6 to 9 characters and contains c and n . the string starts with 2 lowercase letters which should not be u or y . the string ends with number or capital letter .
+this pattern matches any string that starts with 2 lowercase letters , excluding those starting with const0 , has a length of 6 to 9 characters , contains the substring const1 , and ends with a digit or capital letter .
+a string starting with any capital letter that is nt const0 . to be followed by any digits , letters or special characters as long as the number of special characters is more or less than 2 and the number of letters is more or less than 3 .
+this pattern matches any string starting with a capital letter excluding const0 , does not contains 2 special characters , and does not end with 3 letters .
+this pattern matches any string that start with 3 letters , contains any character excluding digits , with at least a lowercase letter and a capital const0 , and does not end with a capital letter .
+a string consists of letters and special characters . it needs to contain at least 1 lowercase character and at least 1 uppercase letter const0 . it needs to start with a sequence of 3 letters , either all upper or all lowercase . it may not end with a capital letter .
+a list of single string . the string consist of allowed in digit numeric value and lowercase and const0 , and const1 . and every lowercase must be after digit .
+a string that consists of numbers , lowercase letters , comma and letter const0 , and every lowercase letter must be after digit .
+the string ends with capital letter but not const0 .
+the string can be any length and contain any characters . it has to end with a capital letter , but it can not end with const0 .
+a string of minimum 6 characters containing at least 1 special character or lowercase letter
+a string contain letters , digits , or special characters and is at least 6 characters long . must contain a special characters or lowercase letter .
+the string has lowercase letters and does not have numbers . the string does not start with a lowercase letter , and it ends with letter which must not be const0 .
+the string can be any length , but it can not have any numbers . it has to include a lowercase letter , but it can not start with 1 . it has to end with a letter , but it can not end with const0 .
+a string that either starts with the sequence const0 or const1 .
+the string can be any length , and it can use any characters , but it must start with either const0 or const1 .
+a string of 6 to 10 letters , special characters or digits with a capital letter in the beginning and 2 special characters or digits in the end . the first letter can not be a const0
+this pattern matches any string starting with any capital letter that is not const0 , has a length of 6 to 10 characters , and doesn´t end with 2 letters .
+the string starts with a const0 , followed by an optional const1 or const2 . it then has more than 1 character other than a capital letter , followed by 3 - 4 capital letters and ends with 3 characters other than letters .
+the string starts with letter const0 after which there is an optional letter const1 or letter const2 followed by more than 1 letter which are not capital letters and then 3 to 4 capital letters . the string ends with 3 characters which are not letters .
+a string that starts with 3 or more capitals , then 4 letters and ends with 3 or more capitals .
+a string consists of 3 or more capital letters followed by 4 letters and then ending with another 3 or more capital letters .
+start the string with 1 or more digits followed by 3 letters . continue with 3 to 4 digits followed by 1 to 4 letters .
+a string that begins with 1 or more digits , then 3 letters , followed by 3 - 4 digits and ends with 1 - 4 letters .
+starts with 1 or more not digits , followed by const0 or const1 , followed by 3 - 4 digits and ends with 1 or more digits or 1 or more lowercase letters
+the string starts with more than 1 character which should not be a number and after which there is either const0 or const1 . then there are 3 to 4 numbers . the string ends with more than 1 number or more than 1 lowercase letter .
+a string that optionally begins with 1 - 4 capitals , followed by 3 - 4 const0 and ends with 1 - 4 capitals .
+a string consisting of 3 or 4 lowercase const0 followed by 1 to 4 capital letters . the string can optionally be prepended with 1 to 4 capital letters .
+a string starts with 1 or more characters that are not letters . optionally , it can end with 1 to 4 letters .
+a string beginning with 1 or more characters that are not letters ending with an optional 1 - 4 letters .
+a list of 5 strings . first and third string consist the 2 to 4 capital letters . second and fourth string consist the 2 letters only and last string consist the const0 or const1 .
+the sequence begins with 2 to 4 capital letters followed by 2 more letters . it then followed by 2 to 4 capital letters and 2 more letters . it ends const0 or const1 .
+a string that starts with 2 digits , then 1 or more capitals , then a digit and ends with an const0 or const1 .
+this string can start optionally with 1 or more digits , followed by 1 or 2 letters
+a string that begins with 1 or more optional digits , then ends with 1 to 2 letters .
+a string that starts with 2 - 3 letters , followed by an optional 4 digits .
+the string consists of 2 to 3 letters optionally followed by 4 digits .
+a list of 4 strings . a first and third string consist the 1 to 2 letters if any upper or lowercase letters . and next second and last string consist the symbol of const0 or const1
+the string must begin with 1 or 2 letters followed by any of the following characters const0 or const1 then followed by 1 or 2 letters and ends with any of the following characters const0 or const1
+one long string that begins with a capital const0 or const1 . then 1 to 3 lowercase letters . then 2 to 4 capital letters . then at least 3 lowercase const2 s . followed by 3 to 4 const3 s and ending with a lowercase letter .
+a string begins with const0 or const1 followed by 1 to 3 lowercase letters . then there are 2 to 4 capital letters followed by 3 or more const2 . finally , there are 3 or 4 const3 followed by a lowercase letter .
+a string beginning with 3 - 4 capital or lowercase letters , then 1 - 4 letters , followed by 3 - 4 capital or lowercase and ending with 3 const0 .
+a list of 4 strings . first and third strings consist of 3 - 4 capital letters or lowercase . second string consist of 1 - 4 letters . final string consist of 3 const0 .
+this pattern starts with const0 , and is followed by 2 to 4 const1 , then 1 to 2 letters , const0 again , and it must end with either const2 or const3 .
+a list of 5 strings . first and fourth strings consist of lowercase . second string consist of 2 - 4 const0 . third string consist of 1 - 2 letters . final string consist of const1 or const2 .
+const2 list of const3 strings . first string consist of 4 const0 . second string consist of 2 - 3 lowercase . third string consist of const1 or const2 . fourth string consist of 2 morethen capital letters . fivth string consist of 2 - 3 const3 . and last string consist of 1 or morethen digits .
+the string starts with 4 const0 , followed by 2 - 3 lowercase letters , a const1 or const2 , more than 2 capital letters , 2 - 3 const3 and end with more than 1 digit .
+a list of 4 strings . a first and third string consist the const0 or const1 uppercase letters . and second string consist the 3 lowercase letter and finally last string consist the 4 letters only .
+the sequence is 4 strings , not separated . the first and third is const0 or const1 . the second is 3 lowercase letters . the last is 4 letters .
+a string that starts with 1 to 3 lowercase const0 , followed by 2 - 3 digits , then has 3 or more capital letters . every string ends with either const1 or _ !
+one to 3 of the letter const0 start the string , followed by 2 to 4 digits . then there are 3 or more capital letters and either const1 or const2
+a string optionally begins with an uppercase const0 . that is followed by 2 to 4 numbers and 3 or more lowercase letters .
+a string that optionally starts with const0 , followed by 2 - 4 digits , and ending with 3 or more lowercase letters .
+a string that begins with const0 or const1 , followed by 2 - 4 characters that are not letters , then 3 digits , ending with 2 const2 .
+a string starts with either const0 or const1 followed by 2 to 4 digits or special characters . it ends with 3 digits followed by 2 const2 .
+a list of only 2 strings . first 1 is 1 or more times const0 letter and next was the 3 letters only .
+the string should start with at least 1 or more capital i . then it is followed by 3 letters .
+the string is : 3 const0 , 3 - 4 lowercase letters or digits , 1 - 4 letters and 3 - 4 const1 . the end is 3 or more letters or 3 or more digits .
+a list of 5 strings . the first string consists of const0 3 times . the second string consists of 3 4 numbers or lower case letters . the third string consists of 3 or 4 letters . the fourth string consists of const1 . v string consists of 3 or more numbers or 3 or more letters .
+this string must start with at least 2 letters , followed by 2 characters that are not capital letters , followed by const0 . then there must be 1 to 3 digits , and it must end with 3 to 4 lowercase letters .
+a string that begins with 2 or more letters , then 2 characters not capitals , followed by const0 , then 1 - 3 digits , and ending with 3 - 4 lowercase letters .
+a string beginning with 2 - 4 capital letters , followed by 1 - 2 const0 , ending with 3 letters .
+a list of 3 strings . a first string consist the 2 to 4 capital letters . second string consist the 1 to 2 const0 . third string consist the 3 letters only .
+a string that starts with 3 or more capitals , then 2 or more lowercase , then 1 - 2 lowercase or 1 - 2 digits and ends with 3 or more digits .
+a list of 4 string . a first string consist the 3 or more capital letters and next string consist the 2 or more lowercase letters and the next string consist the 1 to 2 lowercase or 1 to 2 digit numeric value . and last string consist the 3 or more digit numeric value .
+a string begins with a capital const0 followed by const1 or const2 . 3 - 4 capital letters come next , then 1 to 2 letter const3 , followed by 4 letters .
+this string starts with const3 , followed by const0 or const1 , then 3 - 4 capital letters , 1 to 2 const2 , and finished with 4 letters .
+a string beginning with 3 - 4 characters that are not capitals , then 3 or more capitals , followed by 3 - 4 non - capitals , and then 3 or more capitals .
+a string that begins with 3 - 4 non - capitals , then 3 or more capitals , then 3 - 4 more non - capitals and ending with 3 or more capitals .
+a string starts with 2 or more numbers followed by 3 or 4 capital letters and 1 or more numbers . next there are 1 to 3 const0 . optionally , 2 to 4 numbers come next . it ends with 3 or 4 letters .
+the list has 2 or more digits followed by 3 to 4 capital letters . then there is 1 or more digits followed by 1 to 3 const0 . finally , there are optionally 2 to 4 digits followed by a required 3 to 4 letters .
+a string that begins with 3 letters , followed by an optional 2 - 4 lowercase letters , then 3 letters , then 2 const0 and ending with an optional 3 letters .
+the string starts with 6 letters . optionally , the 6 letters can be divided into groups of 3 by 2 to 4 additional lowercase letters . next there are 2 const0 . optionally , it can end with 3 letters .
+a string starting with 1 to 4 letters followed by the number 1 . it ends with 1 or more lowercase characters .
+the string should consist of 1 - 4 letters followed by the number 1 and end with 1 or more lowercase letters .
+the string must consist of 2 letters followed by 1 - 3 lowercase letters .
+a string consists of 2 letters followed by 1 to 3 lowercase characters .
+a list of 4 strings . first string consist of 2 + const0 . second string consist of i . third string consist of digit . last string consist of 1 - 4 lowercase .
+the string is 2 or more const0 , followed by a const1 . after that , a digit and ends with 1 - 4 lowercase letters .
+a string that starts with 1 or more digits or capitals , followed by an optional 2 letters , and ends with 1 or more digits or capitals .
+this pattern matches any string that starts with a digit or capital letter , optionally followerd by 2 letters , and ends with either 1 or more digits , or a capital letter .
+a string that begins with 2 - 3 capitals or digits , then 2 capitals , followed by 2 - 3 capitals or digits and ending with 2 capitals .
+a list of 4 strings . the first and third strings consist of 2 - 3 capital letters or digit . second and last strings consist of 2 capital letters .
+the sequence is 5 strings with no separation . the first and third is 2 const0 . the second is 2 - 4 capital letters . the fourth is const1 or const2 . the last is an optional 2 const0 .
+a string that begins with 2 capital const0 . then 2 to 4 capital letters . followed by 2 capital const0 . then either const1 or const2 . it ends with 2 const0 , which is optional .
+a string that consists of 2 sets of 3 to 4 zeros , each followed by either a single plus or pound symbol . the string begins with zeros .
+this string must start with 3 to 4 const0 , followed by const2 or const1 . this is followed by 3 to 4 const0 , and ended with either const2 or const1 .
+start a string with a letter in either uppercase or lowercase followed by more than 3 letters in lowercase . end the string with 1 to 3 capital letters .
+starts with a letter , followed by 3 or more lowercase letters . ends with 1 - 3 capital letters .
+a series of either 3 or 4 lowercase letters followed immediately by 3 or more capital letters
+a string that begins with 3 - 4 lowercase letters and ends with 3 or more capitals .
+the list has any number of strings separated by commas . each string 3 letters .
+a string of 3 letters separated by commas .
+this is a list of 3 strings separated by semicolons , where the 2 first strings are formed by 4 letters or digits , followed by 2 to 4 lowercase letters , and a third string of capital letters .
+there is a list of 3 semicolon separated strings . the first 2 start with 4 letters or numbers and end with 2 to 4 lowercase letters . the last can be any length and uses only capital letters .
+the string starts with 2 to 4 letters after which there is the letter const0 and then a lowercase letter after which a period followed by 2 to 4 letters followed by the letter const0 and then lowercase letters after which a period that is followed by 2 to 4 letters and after those a letter const0 . the string ends with a lowercase letter .
+a list of 3 full stop separated strings . all 3 strings start with 2 to 4 letters in either capital or lowercase followed by the letter const0 in lowercase and ends with a letter in lowercase .
+this is a list of 3 strings separated by hyphens , 2 first strings allowing letters and digits , and third 1 allowing digits and capitals with a length equal or higher than 4 characters .
+a list of dash separated strings . the first 2 strings can consist of any alphanumeric character . but the last string only allows digits or capital letters and must have a length of at least 4 .
+there are 3 comma separated strings , and the first is a single capital letter . the second and third are any length . the second uses letters . the third can use lowercase letters , numbers , and const0 , and it can not end in a number followed by a lowercase letter .
+a list of 3 comma separated strings . the first string consists of a capital letter . the second string may contain letters in either capital or lowercase . the third string may contain letters in lowercase , digits and the letter const0 in capital . the third string can not end with a digit followed by a letter in lowercase .
+a string starts with 1 or more const0 or 1 or more const1 followed by a dot . there is another 1 or more const0 or 1 or more const1 followed by a dot . finally , there is 1 or more const0 or 1 or more const1 followed by 2 or 3 digits .
+a list of 6 strings . 1 , 3 , 5 strings are the consist the 1 or more const0 or 1 or more const1 uppercase letters . 2 and 4 strings are the full stop dot symbol . then last string consist of the 2 to 3 digit numeric value .
+this is a list of 3 strings separated by dots , each string can optionally start with 3 or more lowercase letters , followed by 3 digits
+a list of 8 strings . 1 , 4 , 7 strings consist the 3 or more lowercase that is optional strings . 2 , 5 , 8 string characters are consist the 3 digit numeric value . 3 and 6 string characters consist are dot symbol .
+there is a list of 3 semicolon separated strings . the first 2 use capital letters and are 5 characters long . the third can be any length . it starts with a lowercase letter , and lowercase letters , numbers , and const0 are allowed .
+the first and second strings are : 5 capital letters followed by a const0 . after that is any number of digits , lowercase letters and the letter const1 . this last sequence must start with a lowercase letter .
+this is a list of 3 strings separated by hyphens , each string must be formed by 1 to 4 letters , followed by 2 to 4 const0 capital letters , and to end with 1 or more letters
+const0 dash seperated list of 3 strings . each string has the following pattern : 1 to 4 letters followed by 2 to 4 uppercase const0 then ending with 1 or more letters .
+the first string starts with 1 or more capital letters followed by 2 or more const0 . after a comma there are 2 comma - separated strings of any length consisting of lowercase or capital letters or the number const1 .
+a list of 3 comma separated strings . the first starts with more than 1 capital letter and ends with more than 2 const0 . the other 2 can have const1 and letters .
+a list of 3 dash separated strings . the first string must be const0 2 times . the second string is 3 numbers . the third string is 1 or 2 lowercase letters . the fourth string is const1 times 1 to 4 times . the fifth string is const2 or const3 .
+there are 3 dash separated strings . the first is 2 const0 followed by 3 numbers . the second is 1 or 2 lowercase letters followed by 1 to 4 const1 , and the last is const2 or const3 .
+a list of 3 fullstop separated strings . the first and second strings optionally contains 2 or more digits , followed by 3 to 4 const0 and optionally 2 to 4 digits . the third string contains 3 letters and ends with const1 .
+a list of 3 dot separated strings . the first 2 start with an optional more than 2 digits , followed by an obligatory 3 - 4 const0 and end with an optional 2 - 4 digits . the third has 3 letters and a const1 .
+a list of 3 semi - colon separated strings . the first must be 1 - 4 const0 . the second can have letters . the third can have 4 digits and letters .
+the first part of the string has 1 to 4 letter const0 after which there is a semicolon that is followed by a part of the string that consists of capital letters and lowercase letters and then a semicolon . the last part of the string consists of letters , numbers and has a length of 4 characters .
+a list of 3 fullstop separated strings . the first string must containg 2 to 3 const0 . the second and third strings consist of a capital and lowercase letters , however they may not begin with a lowercase letter and they may not end with a capital letter .
+a list of 3 dot separated strings . the first must be 2 - 3 const0 . the other 2 can have letters , can not start with a lowercase letter and can not end with a capital letter .
+a list of 3 comma separated strings . they must all start with 2 - 4 lowercase letters of 2 - 4 digits . the first 1 then has 2 - 3 letters .
+the sequence consists of 3 strings separated by commas . the first string consists of 2 to 4 lowercase letters or 2 to 4 digits followed by 2 to 3 letters . the second and third strings consist of 2 to 4 lowercase letters or 2 to 4 digits .
+a list of 3 period separated strings . the first string starts with a lowercase letter and ends with lower case letters or digits . the second string starts with a lowercase letter and ends with lower case letters or digits . the third string is more than 3 letters and digits .
+there is a list of 3 dot separated strings that may use numbers . the first 2 can also use lowercase letters , but the third can also use lowercase and uppercase letters . the first 2 can be any length , but they must start with a lowercase letter . the third must be at least 3 characters long .
+a list of 3 dash separated strings . they can only have capital letters , can not start with const0 and must end with const1 .
+the sequence is 3 of the following string separated by a const0 . any number of capital letters . must not start with const1 and end with const2 .
+a list of an arbitrary number of dot separated strings . they must have 3 or less digits .
+there is a list of an indeterminate number of dot separated strings of numbers . each string can be no longer than 3 characters .
+a list of 3 dash separated strings . the first string may contain 4 characters consisting of capital letters and digits . the second string may contain up to 4 characters consisting of letters in both capital and lowercase and digits . the third string starts with either const0 or const1 followed by 2 or more letters in lowercase .
+a list of 3 strings separated by dash . the first string has a length of 4 that consists of either or a combination of capital letters and numbers . the second string consists of either or a combination of lowercase and capital letters and numbers . also , the length of the second string does not exceed 4 . the third string should start with either const0 or const1 followed by more than 2 lowercase letters .
+a string that begins with 3 or more letters , followed by a const0 , then 1 - 4 capital letters , then a const0 , ending with 1 - 4 capitals .
+a list of 3 strings separated by commas . the first string must start with a lowercase letter followed by 4 letters . the second and third strings must be lowercase .
+a list of 3 comma separated strings . while the first string must start with 1 lowercase character followed by exactly 4 letters , the 2 last strings must only consist of lowercase characters .
+each substring is separated by a const0 . the first 2 substrings have an optional 4 lowercase letters followed by 1 to 3 letters of any case . the final string has 2 to 5 characters that are lowercase letters or const1 .
+the first part of the string which is optional has 4 lowercase letters followed by 1 to 3 letters and then a semicolon after which there is a part which is optional with 4 lowercase letters followed by 1 to 3 letters and then a semicolon . the last part of the string consists of lowercase letters and number const0 , also it has a length of 2 to 5 characters .
+a list of strings that are separated by semicolons , with a minimum of 1 string and no maximum . each string must be 3 lengths long and can consist of lowercase letters , digits , and capitals . the string must end in a capital letter or a digit .
+a list has any number of 3-character strings separated by const0 . the characters can be capital or lowercase letters or digits , but the last character in the string must not be lowercase .
+a list of an arbitrary number of comma separated strings . they must all have 3 - 4 lowercase letters .
+the sequence is any number of the following string separated by const0 : 3 - 4 lowercase letters .
+a list of 3 strings separated by dots , each string allowing only capital letters and digits
+a list of 3 dot seperated strings . each string contains digits or capital letters .
+three parts separated by commas . the first part is either const0 or const1 . the second and third are the same as the first , except either const2 or const3 const1 in front of const0 or const1 .
+a list of 3 comma separated strings . they must all have const0 or const1 . the second and third must start with const2 or const3 .
+a list of 3 semi - colon separated strings . the first can have letters and digits . the other 2 can have 3 or more digits and letters . they all can not start with a digit .
+the string must not begin with numbers must contain more or equal to 3 digits and letters separated by semicolons , are 3 blocks of string
+this string starts with const1 , followed by 2 to 4 lowercase letters , then const0 . this is followed by const1 , then 2 to 4 lowercase letters , then const0 . this is followed by const1 , then 2 to 4 lowercase letters , then 3 to 4 const2 .
+a list of 3 dash separated strings . they all start with const0 followed by 2 - 4 lowercase letters . the third 1 ends with 3 - 4 const1 .
+a string of letters that is 6 or more .
+the string is 6 or more letters .
+a string that has an const0 and does not contain a digit . it does not begin with a lowercase and ends with 2 lowercase .
+a string that has an const0 but does not contain a digit . the string begins with something other than a lowercase and ends with 2 lowercase letters .
+a list of strings containing special characters , lowercase , capital and can include const0 . the overall length is 6 - 10 .
+a string of 6 - 10 characters that contains special characters , lowercase letters , capital letters or const0 .
+this allows special characters , capital letters , and const0 . it must be at least 6 characters long . it must contain const1 followed by a capital letter , and every special character must be after a capital letter .
+the string can have special characters , capital letters and const0 . it must be 6 or more characters long , contain a const1 followed by a capital letter and all special characters must be after a capital letter .
+the string must start with a digit other than const0 , can not have 3 letters followed by a digit and can not have const1 .
+a string that begins with anything but 3 , and has no numbers following 3 letters and no const0 .
+a string that contains lowercase letters .
+a string that does not contain digits but contains lowercase . starts with 3 capitals that are not const0 .
+a string of any length can not contain numbers . it must have at least 1 lowercase letter . it starts with 3 capital letters , but not const0 .
+a string of 6 - 8 characters that has a special character , starts with a digit and ends with something other than a lowercase .
+i want to match any string that has a length of 6 to 8 characters , starts with a digit , does nt end with a lowercase , and contains at least 1 special character .
+this pattern matches any string starting with a capital letter , does not contains lowercase letters followed by a capital const1 , and ends with a lowercase but not const0 .
+a string of letters with begins with const0 and ends with const1 .
+any string that consists of any number of letters . it must start with the character sequence const0 and end with the character sequence const1
+a string that has a capital , begins with a lowercase letter that is not a const0 and ends with a special character .
+the string is any number of characters . must have capital letters , must start with a lowercase letter , but not const0 and must end with a special character .
+this string must have 5 to 10 characters , that can´t use a const0 digit , can´t contain a const1 digit substring , and must contain at least 1 capital letter
+the length of the string consist of 5 - 10 letters , numbers or characters . it must not contain the number 5 and it can not contain the number const0 . it has to have at least 1 capital letter .
+a string that starts with a capital letter followed by 2 digits , and contains lowercase letters , special characters , digits , and capital letters .
+a string of any number of upper or lowercase letters , special characters or digits , which begins with a capital followed by 2 digits .
+a string of lowercase letters and digits that ends with a digit that is not const0 .
+a string of any number of digits or lowercase letters , which ends in a digit that is not const0 .
+a string of 5 or more letters that starts with an const0 and ends with const1 .
+the string of letters is at least 5 characters long . it must start with const0 and end with const1 .
+a string of capital letters that does not contain const0 or const1 .
+the string may contain letters , special characters and digits . there must at least 1 letter . every special character must be preceded by a digit . the string must end with a digit .
+a string that allows letters , special characters , or digits . the string must have a letter and all special characters must be after a number and the last entry must be a number .
+a string that has capitals , special characters , lowercases , and digits . the string starts with lowercase or digit and ends with something other than a capital .
+the string consists of capital letters , special characters , lowercase letters and numbers . the string must start with a lowercase letter or number and it must not end with a capital letter .
+this string must contain 2 letters and not to start with a digit
+this pattern matches any string that does not start with a digit , and contains 2 letters
+a string of letters or const0 and must have an const1 . ends with a letter .
+the string can be any length , and it can use letters and exclamation points . it must have an const0 , and it must end with a letter .
+the string can have digits , letters and special characters , must be 8 or less characters in length , can not have const0 nor const1 . the string can not start with a digit .
+a string in which all characters but const0 and the sequence const1 are allowed . the overall string length must be less than 9 and it can not start with a digit .
+a string must be at least 4 characters long . any letter must be after a lowercase letter , so using letters is not possible .
+a string with 4 or more characters and any letter must a lowercase .
+starts with a lower case letter . the rest is a string of 9 or less characters that must have a special character .
+a string with fewer than 10 characters . it must contain at least 1 special character but and must start with a lowercase character .
+a string that contains const0 or const1 .
+a string consisting of any number of characters . 1 of the lowercase characters const0 or const1 must be present in the string .
+the string can be any length , but it can not contain numbers .
+a string consisting of any number of characters with all characters but digits allowed .
+a string that does not contain 2 const0 and contains a digit . the string starts with something other than a digit or 2 capitals .
+a string that contains digits but does not contain 2 const0 . can not start with a digit or 2 capitals .
+a string with 2 restrictions : the character sequence const0 is forbidden and letters are only allowed to be put after at least 1 digit .
+a string where any letter must be after a digit , and does not contain const0 .
+the string is 6 - 9 characters . must not start with const0 or a digit . must end with 3 special characters or 3 capital letters .
+a string that is 6 to 9 characters long . the string can not begin with a digit or const0 and must end with 3 special characters or 3 capital letters .
+we want to match strings that contain only digits or letters . it must contain atleast 1 lowercase or capital letter , but does not allow 2 consecutive letters . the string must not end with a letter .
+a string of letters and number with no more than 2 letters in a row . the letters may be lower or upper case . the final value must not be a letter .
+a string of capital letters that does not contain const2 but contains const3 . the string does not start with const0 and ends with const1 .
+the string must contain only capital letters . it should have the letter const3 in capital at least once . the string should not contain the letter const2 . it can not start with the letter combination of const0 and it should always end with the letter combination of const1
+a string that does not contain a special character , starts with a capital then a const0 and ends with 3 lowercase or 3 capitals .
+this pattern matches any string that starts by any capital letter followed by a const0 capital letter , does not contain any special character , and ends either with 3 lowercase or capital letters .
+the string is a list of up to 9 characters that can be capital or lowercase letters , digits , or special characters . the first character must not be a capital letter , and the string must contain an const0 .
+this string allows digits , special characters , capital letters , and lowercase letters . it must contain const0 and be a maximum length of 9 characters . it can not have 3 lowercase letters . it can not start with a capital letter .
+a good string has 2 to 4 letters followed by 2 or more lowercase letters .
+a string consisting of 2 to 4 letters followed by 2 or more lowercase letters .
+a string should start with 1 or more letters or numbers . it should be followed by a capital const0 or const1 . then it is followed by 3 additional letters .
+the first part of the string has more than 1 letter or number followed by either letter const0 or letter const1 . the string ends with 3 letters .
+const0 matching string has 1 to 3 const0 followed by 2 letters .
+const0 string should consist of 1 - 3 capital const0 . it is then followed by 2 letters .
+a list of 2 strings . the first string is 4 letters . the second string is 3 or more lowercase letters .
+the string must start with 4 letters and end with 3 or more letters in lowercase .
+a string that begins with 2 to 3 capital letters and ends in 2 to 3 letters of any case .
+a string consists of 2 - 3 capital letters followed by an additional 2 - 3 letters .
+the string should start with 3 or 4 capital letters . followed by either a lowercase a or capital const0 . then followed by 1 or more letters . then follows 2 capital letters at the end .
+a list of 4 strings . a first string consist the 3 to 4 capital letters . and the next string consist the const0 or const1 . a followed by a next string consist the 1 or more letters if any lowercase or uppercase letters . last string consist the 2 capital letters only .
+the string should consist of only 3 letters . also optional , the string can start with 1 or more digits .
+a list of 2 strings . the first string consist of 1 + digit or that is consist optional .
+a string starts with const0 followed by 1 to 4 letters . then there are 3 or more numbers followed by 1 to 4 letters . finally , there are 3 or more numbers optionally followed by a character that is not a number .
+the string starts with letter const0 followed by 1 to 4 letters after which there are more than 3 numbers that are followed by 1 to 4 letters and then more than 3 numbers . the last part of the string which is optional is not a letter .
+this pattern matches any string that optionally starts with 2 or more capital letters , followed by either the const0 or const1 substring
+the string must consist of the capital letters const0 or const1 . however the beginning of the string can have but not necessary 2 or more capital letters as well .
+the string should start with 1 or more number const0 . followed by 2 or more capital letters or 2 or more numbers .
+a string of 1 or more const0 , followed by 2 or more of either capital letters or digits .
+a string starting with 3 capital letters followed by 1 or more lower case letters .
+the string must start with 3 capital letters followed by 1 or more letters in lowercase .
+this pattern matches any string that starts with 2 digits , followed by 1 to 3 lowercase letters , and optionally ends with 2 to 4 const0 digits .
+a string starts with 2 numbers . next are 1 to 3 lowercase letters . optionally , it can end with 2 to 4 const0 .
+a string with 2 or more letters followed by a const0 then 2 or more letters or numbers followed by 3 - 4 capital letters and ending with an const1 .
+a string consists of 3 or 4 capital letters followed by an const1 . optionally , it can start with 2 or more letters , a const0 , and 2 or more letters or numbers .
+a string starting with 3 const0 followed by 3 or more capital letters then ending with an optional letter .
+my string consist of 3 number const0 , followed by at least 3 capital letters , followed by an optional letter .
+a string that consists of the following pattern that is repeated 2 times : 2 to 4 alphanumeric characters are followed by 1 or 2 digits .
+a string consists of 2 - 4 letters or numbers . it is then followed by 1 - 2 numbers . then followed by another 2 - 4 letters or numbers . the string should then end with an additional 1 - 2 numbers .
+a string starting with 3 - 4 lowercase letters then const0 or const1 followed by 3 numbers and finishing with 2 - 4 number const2 .
+the string starts with 1 or 2 const0 followed by const1 or const2 . a const3 follows , then 1 to 4 letters and optionally 3 to 4 lowercase letters .
+a list of 5 strings . the first string is const0 1 - 2 times . the second string is const1 or const2 . the third string is const3 . the fourth string is1 - 4 letters . the fifth string is optional 3 - 4 lowercase letters .
+the string has 1 or 2 capital letters followed by 2 or more lowercase letters .
+a string consist of 1 to 2 capitals letters followed by 2 or more lowercase letters .
+the string has 3 or 4 digits optionally followed by 1 to 3 digits or 1 to 3 capital letters .
+a list of 2 strings . the first string is 3 to 4 digits . the second string is 1 to 3 digits or 1 to 3 capital letters and is optional .
+the string should start with 2 - 4 letters . it is then followed by 3 capital letters . then followed by 1 -4 lowercase letters . the end of the string shall have at least 1 or more lowercase const0 .
+the string starts with 2 to 4 letters followed by 3 capital letters after which there are 1 to 4 lowercase letters . the string ends with more than 1 letter const0 .
+this pattern matches any string that starts with 1 to 3 letters , and optionally ends with either an additional const0 or const1 capital letter .
+the string shall have between 1 -3 letters . const0 or const1 can be included at the end but is not necessary .
+a string starting with an optional 1 - 4 const0 then an optional 2 letters followed by 1 - 4 const0
+there are only 3 strings . a first string consist the 1 to 4 times const0 numeric value . next string consist the 2 letters there was a 2 strings are the optional strings . last string consist the 1 to 4 times of const0 .
+a string consists of 2 const0 followed by 1 or more letters .
+the string must have 2 lowercase const0 followed by 1 or more letters .
+a string consists of 1 or more const0 followed by 2 or more capital letters .
+a string starting with 1 or more const0 and ending with 2 or more capital letters .
+this string is composed by 1 or more capital letters that ends with an additional const0
+the string starts with 1 or more capital letters followed by the letter const0 in capital .
+a string starting with 2 or more letters followed by 4 numbers .
+the string should start with 2 or more letters and then is followed by 4 numbers .
+the string has 1 or more const0 and/or const1
+single string consist of digit const2 plus upercase const0 or const1
+a string consists of either 4 lowercase letters or 4 capital letters followed by 4 more lowercase letters . then is followed by 1or more capital letters and ends with a comma .
+the string must start with 4 letters in lowercase or 4 letters in capital followed by 4 letters in lowercase . the string must end with more than 1 capital letters followed by a comma .
+the string starts with either more than 3 numbers or 3 letters which are optional . the last part of the string consists of 3 letter const0 .
+a list of 6 strings . a first 1 is consist the 2 to 3 times of const0 . second string is optional string of const1 or const2 , and next string consist the 3 to 4 times of capital letters . fourth string consist the single lowercase letters only . fifth string consist the 1 to 4 times capital letters . and last string consist the same of the first string .
+a string starts with 2 or 3 const0 followed optionally by a const1 or const2 . it then has 3 or 4 capital letters followed by a lowercase letter , then 1 to 4 capital letters . it ends with 2 to 3 const0 .
+a string starts with 2 to 4 capital letters . optionally , 4 const0 come next . then there are 1 to 3 characters that are not numbers . it ends with 4 lowercase letters .
+a string with 2 - 4 capital letters to start then 4 optional const0 followed by 1 - 3 special characters or letters and ending in 4 lowercase letters .
+a list of 4 strings . the first string is 2 capital letters . the second string is 2 - 4 lowercase or capital letters . the third string is 2 - 3 lowercase letters . the fourth string is 2 - 4 lowercase or capital letters .
+a string with 2 capital letters at the beginning then 2 - 4 lowercase letters or 2 - 4 capital letters followed by 2 - 3 lowercase letter and ending with 2 - 4 lowercase letters or 2 - 4 capital letters .
+a string containing 4 fixed character sequences . the first sequence in lowercase is either const0 or const1 . that is followed by an uppercase const2 or a lowercase const3 as well as 1 to 4 lowercase const4 . the string is concluded with the number const5 .
+a list of 4 strings . the first ring must be const0 or const1 . the second string is either const2 or const3 . the fourth string is const4 1 - 4 times . the last string is const5 .
+the string optionally starts with 2 to 4 digits followed by 3 letters . it then has 4 lowercase letters followed by 3 digits , ending with at least 1 letter .
+a string of optional 2 - 4 numbers followed by 3 or more optional letters then 4 lowercase letters followed by 3 numbers and ending with 1 or more letters .
+a good string starts with 3 or more digits followed by 1 to 4 letters . it ends with 3 or more digits followed by 1 to 4 letters .
+this pattern is composed of 2 strings , each string formed by 3 or more digits and 1 to 4 letters
+a list of 4 strings . the first string consist of const0 or const1 and second string consist of 2 - 4 const2 or its first 2 strings have given by optional and third string consist of 1 + const3 and fifth string consist of const4 or const5 .
+a string starting with an optional const0 or const1 then an optional 2 - 4 const2 followed by 1 or more const3 and ending in const4 or const5 .
+the string can start but not necessary with 1 - 4 capital letters . it must also end with capital const0 or const1 .
+a string consists of the uppercase character sequences const0 or const1 . this sequence can optionally be prepended by 1 to 4 capital letters .
+the first part of the string which is optional has more than 3 letters const0 followed by 2 to 4 letters and then more than 3 letters const0 . the last part of the string has 2 to 4 letters .
+the string optionally starts with 3 or more const0 . it is followed by 2 to 4 letters , then 3 or more const0 , and ends with 2 to 4 letters .
+a string starts with 4 letters followed by an const0 . then there are 2 or more const1 followed by const2 or const3 . finally , a const4 is followed by 4 capital letters .
+the string has 3 to 4 const0 , followed by 1 to 2 capital letters , followed by 3 to 4 const0 that are optional , which is then followed by 3 capital letters .
+a string commencing with 3 - 4 const0 then 1 - 2 capital letters followed by 3 - 4 optional const0 and ending with 3 capital letters .
+there are 2 strings . the first string must have at least 3 const0 . the second string is 3 or more lowercase letters .
+i want to match 2 string . the first 1 has 3 ore more const0 . the second 1 have 3 or more lowercase letters
+a string beginning with the letters const0 or const1 followed by 3 or more letters then 1 - 4 lowercase letters followed by 4 letters then a digit and ending with 2 capital letters .
+up to 3 consecutive strings , first 2 are optional . first string2 or 3 const0 . second string not digits . third string 2 to 3 const0 .
+the first part of the string consists of capital letters and lowercase letters after which there is a semicolon that is followed by another part of the string that consists of capital letters and lowercase letters after which there is a semicolon . the last part of the string consists of numbers and capital letters .
+the string has 3 sections separated by semicolons . the first 2 sections can have any letter . the last section can only have digits or uppercase letters .
+a const0 , then a letter , then 3 or more lowercase letters , then a semicolon . repeat twice more but do not put a comma after the third string .
+the first part of the string consists of letters and numbers has either 2 characters or more than 2 characters followed by a period after which there are 2 to 4 capital letters after which there is a period . the string ends with the number const0 .
+there are 3 dot separated strings . the first can use letters and numbers , and it is at least 2 characters long . the second string is 2 to 4 capital letters . the third string is a single const0 .
+there is a list of an indeterminate number of semicolon separated strings of letters . each string can be any length , but strings must end with const0 or const1 .
+the list has 1 or more strings separated by const0 . each string has any number of letters ending with const1 or const2
+three strings separated by commas . first string can not start with 3 letters or end with a digit , must contain letters or digits and end in a comma . second string repeats the first . third string is 2 lowercase letters then 3 to 4 letters .
+there is a list of an indeterminate number of dot separated strings of 1 to 4 capital letters .
+a list of 1 or more dot separated strings . each string only consists of 1 to 4 capital letters .
+three strings separated by periods . first string can be any length but can not start with a digit or end with a lowercase letter and is followed by a period . second string is a letter or digit followed by a period . third string is a letter or digit .
+there is a list of 3 dot separated strings of any length , which may use letters and numbers . the first can not start with a number and can not end with a lowercase letter .
+a list of 8 string . a first string consist the matched the letter of const0 . next string consist the 4 digit numeric value . followed by a next string consist the comma symbol . 4 and 7 string consist the 3 lowercase letters . 5 and 8 string consist the 1 to 4 capital letters only that is optional string . sixth string consist the comma .
+there is a list of 3 comma separated strings . the first is a const0 followed by 4 numbers . the second and third start with 3 lowercase letters . optionally , those strings can end with 1 to 4 capital letters .
+there is a list of 3 semicolon separated strings . the first is 2 or 3 capital letters followed by 4 numbers . the second and third start with 2 or more lowercase letters , and optionally , 3 or 4 letters can come next . those strings each end with an const0 .
+a list of 3 semi - colon separated strings . the first string starts with 2 to 3 capital letters followed by 4 digits . the second and third strings start with 2 or more letters in lowercase followed optionally by 3 to 4 letters and ends with the letter const0 .
+a list of 3 period separated strings . the first second and third strings allow digits and lowercase letters . the first string and the second string must have 3 numbers .
+the string has 3 substrings connected by dots . the first and thirds substrings have 1 or more digits and/or lowercase letters . the middle substring must have 3 digits , but can also contain more lowercase letters or digits .
+there are 3 strings separated by const0 . each string has or more capital letters , but none of the strings can contain const1 .
+a string consisting of 3 parts separated by semicolons . each part can contain any number of capital letters , but the first 3 letters in each part can not be const0
+the string starts off with a letter , followed by 3 - 4 capital letters with a semicolon proceeding . after the semicolon , there can be capital letters but not const0 or const1 at the end . there is then another semicolon with capital letters allowed but not const0 or const1 at the end .
+a list of 3 semi - colon separated strings . the first string starts with a letter followed by 3 to 4 capital letters . the second and third strings may contain capital letters and must not end with the letter const0 or the letter const1 .
+there is a list of 3 comma separated strings . the first and second can be any length . the first uses numbers , but the second may use letters and numbers . the third string is 1 to 4 characters long and may use letters and numbers .
+the first part of the string consists of numbers and then a comma which is followed by a part of the string that consists of letters and numbers after which there is a comma . the last part of the string consists of numbers and letters and has a length of 1 to 4 characters .
+a list of 3 semicolon separated strings . the first and second strings consist of 3 or more lowercase characters . the third string is any number with 3 digits .
+a list of 3 semi - colon separated strings . the first 2 strings consist of at least 3 lowercase letters . the last string is a 3 digit numeric value .
+the string starts with any number of digits not ending in const1 . after a const0 there are 4 digits and/or letters and another const0 . the last section has 1 or more lowercase letters .
+a string consist in 3 + uppercase letter . send const0 and after 3 + uppercase letter . post this you insert const0 and 2 or more following number / letter const1 , const2 or const3
+there is a list of 3 semicolon separated strings . the first 2 end with 3 or more capital letters . they can optionally start with 3 or more numbers . the third string must be at least 2 characters long , and it may use const0 , const1 , and const2 .
+a list of 3 dash separated strings . all 3 string must not start with a letter . the length of the string should be between 2 and 5 . the string may contain letters and digits .
+this is a list of 3 strings separated by hyphens , where the strings have 2 to 5 characters , allowing letters and digits , and the strings does not start with a letter
+the first part of the string consists of numbers and the letter const0 after which there is a period that is followed by 2 to 3 letters and then a period that is followed by 4 capital letters . the last part of the string has 1 to 2 number const1 .
+a list of 6 strings . a first string consist the digit and const0 . next string consist the dot symbol . third string consist the 2 to 3 times of letter and next string was dot symbol . fifth string consist the 4 capital letters . last string consist the 1 to 2 times of const1 numeric value .
+3 strings separated by periods . the first string allows numbers . the second string of 4 consists of lowercase letters , numbers , and const0 . the last string has 4 digits .
+a list of 3 full stop separated strings . the first and third strings may contain digits . the second and third string must not exceed an overall length of 4 . the second string may contain letters in lowercase , digits and the letter const0 .
+the list has any number of strings separated by const0 . each string has 1 or more digits and/or letters .
+a string consist of digits and letters , no special character allowed . only exception for segmentation of string a semicolon ( const0 ) sign can be used .
+the string starts with 3 + capital letters , followed by const0 , a dash and 1 - 2 letters , another dash followed by digits
+a string starts with 3 or more capital letters followed by const0 . it then has a dash followed by 1 or 2 letters and another dash . it ends with 1 or more digits .
+the string has 3 substrings separated by const0 . each substring has 1 or more letters . the second and third substrings must start with const1 and end with const2 .
+a list of 3 fullstop separated strings . the first string allows only letters , and may not be more than 4 characters in length . the second and third strings consist of an optional 2 or more lowercase letters , followed by 4 digits .
+the first part of the string consists of lowercase letters and capital letters also it has either 4 characters or less than 4 characters after which there is a period that is followed by more than 2 lowercase letters which are optional and then 4 numbers followed by a period and then more than 2 lowercase letters which are optional . the last part of the string has 4 numbers .
+a list of 3 period separated strings . the first string allows capital and lowercase letters . the second string allows letters . the third string allows 3 - 4 letters .
+the first part of the string consists of capital letters and lowercase letters after which there is a period that is followed by a part of the string that consists of letters and then a period . the string ends with 3 to 4 letters .
+a string starting with 4 or more lowercase letters followed by a const0 then 4 or more lowercase letters followed by another const0 and ending with any combination of numbers and capital letters but must contain a number .
+a list of 3 dash separated strings . the first and second string must contain 4 or more letters in lowercase . the third string must have at least 1 digit and may contain letters in capital .
+a 3 set string separated by 2 dots . the first and third set of strings should always end in const0 . the string set should always start with const1 and followed by a number or a combination of numbers .
+there are 3 dot separated strings of numbers of any length . all 3 strings must start with const1 . the first and third strings must end in const0 .
+a list of 1 or more dash separated strings . each string simply consists of 2 or 3 letters .
+the string starts with 2 - 3 letters , a dash followed by 2 - 3 letters , 3 dots and then another dash followed by 2 - 3 letters
+this is a list of 3 numeric strings separated by dots , that does not contains the const0 numeric value
+a string divided into 3 segments by a const0 starting with 1 - 3 letters followed by 4 numbers or lowercase letters .
+a list of 3 strings , separated by dashes . each string consists of 1 to 3 letters , followed by 4 digits or lowercase characters .
+there is a list of an indeterminate number of dash separated strings that are at least 2 characters long . the strings may use numbers and const0 .
+the string starts with 3 + digits , followed by dash and 3 + digits , then another dash and 3 const0
+this is a list of strings separated by hyphens , where all the strings starts with 2 digits , allows digits and letters , and does not contain the const0 numeric value .
+a list of 3 dash separated strings . all 3 string must start with 2 digits . all the strings may contain letters and digits with exception of the digits const0 in the given order .
+three strings separated by semicolons . first string is const0 or const1 , then optional 3 to 4 lowercase letters , followed by a semicolon . second and third strings are a repeat of the first , but the final string does not end in a semicolon .
+there is a list of an indeterminate number of semicolon separated strings . each string begins with const0 or const1 . optionally , that can be followed by 3 or 4 lowercase letters .
+the first part of the string can have lowercase and/or capital letters and there must be 3 or less than 3 characters . there can not be 3 lowercase letters . there is then a dash followed by the same standards from the first part of the string . next is another dash and following can not be 2 letters at the front and there are letters and digits allowed .
+a string consisting of 3 parts separated by dashes . the first 2 parts contains any lowercase or capital letters , can not be greater than 3 , and can not be 3 lowercase letters . the third part can be any combination of letters or digits , but can not start with 2 letters .
+a list of 3 dash separated strings . all dash consist in digit in lengh < =3 , all dash is separete with const0 .
+there is a list of an indeterminate number of strings of numbers . each string can be no longer than 3 digits .
+a list of at least 1 string that consists of leter or digit . the strings must be dot separated
+the first part of the string has more than 3 letters and then a comma which is followed by 2 lowercase letters after which there is a comma . the string ends with either letter const0 or letter const1 .
+a list of 3 comma separated strings . the first string starts with 3 or more letters . the second string contains 2 letters in lowercase . the third string contains the letter const0 or the letter const1
+a list of 3 comma separated strings . the first and third string may contain letters and digits . the second string may contain letters and digits , the number of letters can not be 3 and the string can not end with a digit .
+the first string must content 2 to 4 lowercase , second string must have 4 capital and third string allow capital , digit or lowercase and the length must be 2 to 4
+the string has 3 dot - separated substrings . the first substring has 2 to 4 lowercase letters . the second substring has 4 capital letters . the final substring has 3 to 5 digits and/or letters of any case .
+a list of 3 comma separated strings . all 3 strings start with const0 or const1 followed by an optional capital letter .
+this is a list of 3 strings separated by commas , each string is composed by either const0 or const1 substrings , followed optionally by a capital letter .
+three strings separated by dashes . first string is 2 to 3 letters or digits , followed by a dash . second string is 2 to 5 const0 followed by a dash . final string is 3 or more letters and then 2 to 3 capital letters .
+the string allows for any letters or digits . it must also include 2 dashes separated by letters or digits .
+a 3 part string , separated by commas . the first part is any combination of letters and/or digits with a length of 4 or less , that must end with either 3 digits or 3 lowercase letters . the second and third parts can be any number of any combination of letters and/or digits .
+there is a list of 3 comma separated strings . the first can use lowercase letters and numbers , and it can not be longer than 4 characters . it must end with 3 numbers or 3 lowercase letters . the other 2 strings can be any length and can use lowercase letters and numbers .
+this is a list of 3 strings separated by commas , not allowing special characters .
+there are 3 comma separated strings of any length . letters and numbers are allowed .
+a list of const1 dash separated strings . all 3 string must contain only digits and end with the digit const0 . the first string should not start with the digit const1 .
+there is a list of 3 dash separated strings of numbers . the strings can be any length , and each must end with a const0 . the first string can not start with a const1 .
+a string may have parts separated by const0 or may a 1 single string without parts . length of the string can be > = 4 and consist of capital letter and letter const1 .
+two digits , then optional letters and a comma , repeat . then 2 digits and an optional 2 capital letters .
+a string beginning with the letter const1 or const2 followed by const0 then numbers followed by a const3 and a const0 and ending in 3 - 4 letters .
+the string must begin with either const0 or const1 followed by a period . the next portion of the the string can be any amount of digits , but must end with a const2 , followed by a period . the last part of the string must be between 3 and 4 letters .
+a list of 4 strings with a dash separating first and second and third and fourth strings . the first string is capital letters or numbers . the second string is 2 - 4 lowercase letters . the third string is optional and is const0 or const1 . the fourth string is 4 or more lowercase or capital letters or numbers .
+there is a list of 3 dash separated strings . the first can be any length , and capital letters and numbers are allowed . the second string is 2 to 4 lowercase letters , optionally followed by const0 or const1 . the third string is at least 4 characters long and can use letters and numbers .
+there is a list of an indeterminate number of semicolon separated strings that are 3 characters long . the strings may use letters and numbers .
+a list of 1 or more semicolon separated strings . each string consists of exactly 3 alphanumeric characters .
+i want to create a list of 4 strings , start with a length of string > =3 consist of digits & can have a uppercase letter const0 anywhere within it followed by a special character dot ( . ) second string size can not exceed more than 5 characters and can have uppercase letters , lowercase letters or digits followed by a dot ( . ) third string consist of letters length can be in between 3 to 4 letter . fourth string is a fixed 4 lowercase letters
+the string starts with 3 or more digits and/or const0 . after a dot it contains 1 to 5 digits and/or letters of any case . after another dot , it ends with 3 to 4 letters of any case followed by 4 lowercase letters .
+there are 3 comma separated strings . the first 2 can be any length , and they may use letters and numbers . the last string is 2 to 4 letters .
+the string has 3 comma - separated substrings the first 2 substrings have 1 or more digits and/or letters of any case . the last substring has 2 to 4 letters .
+the list has any number of strings separated by const0 . each string contains 2 to 3 capital letters or 2 to 3 lowercase letters .
+a string starting with 3 or more numbers then const0 and ending with lower case letters .
+the first string section has 3 or more digits followed by a comma . the second section has const0 . the last string has 1 or more lowercase letters .
+a list of 3 dot separated strings . first string consists of 3 lower case letters . 2nd string starts with a number then followed by 2 - 4 lowercase letters . last string allows all letters .
+the list has 3 strings separated by const0 . the first string has 3 lowercase letters . the second string has a digit followed by 2 to 4 lowercase letters . the last string 1 or more letters of any case .
+a list of 3 fullstop separated strings . the first string consists of 2 or more lowercase letters . the second strings consists of 2 or more letters , or 2 or more digits . the third string is const0 or const1 .
+there are 3 dot separated strings . the first is 2 or more lowercase letters . the second is 2 or more letters or 2 or more numbers . the third is a single const0 or const1 .
+the list has 1 or more strings containing either const0 or const1 and separated by commas .
+there is a list of 3 comma separated strings . the first string consists of 2 to 4 lowercase letters . the second and third strings start with 2 to 4 const0 , which are followed by 2 or more letters . those strings end with the number const1 .
+a list of const1 comma separated strings . the first string must contain 2 to 4 letters in lowercase . the second and third string starts with 2 to 4 of the letter const0 followed by 2 or more letters and ends with the digit const1 .
+a string starting with 2 optional capital letters then 3 letters and a const0 followed by 3 or more const1 and const0 then ending with 3 or more const1 .
+a string in 3 parts , separated by 2 semicolons . it begins with 3 letters while the following 2 segments can each be 3 or more const0 . optionally , 2 capital letters can be added to the beginning .
+the string has 3 substrings separated by dashes . the first substring is either const0 or const1 . the last 2 substrings start with 4 letters followed by const2 or const3 optionally followed by 3 letters .
+a string beginning with the numbers const1 or const2 then a const0 followed by 4 letters then a const3 or const4 and 3 optional letters then another const0 followed by 4 letters then a const3 or const4 and ending with 3 optional letters .
+this pattern matches any string that uses digits , letters , and const0 special characters , has a const1 digit , and is no longer than 8 characters .
+i have a string that allows digits , capital , lowercase , and underscore . it must have a const0 and have a length less than or equal to 8 .
+the string consists of lowercase letters , special characters , capital letters and the number const0 . also the string must have either 4 characters or more than 4 characters .
+the string consists of special characters , capital letters , and lowercase letters , and the number const0 . the string shall be 4 or more in length .
+the string must start with a special character . it may contain letters , digits and special characters .
+the string has no special rules except that is must start with a special character .
+a string must start with a special character followed by any letter either upper case or lower case , any digit , any special character of any length but must contain letter const0 . string must be terminated by a special character or a digit .
+a string that begins with a special character and ends with a special character or digit . the string can contain lower case and capital letters , digits , and special characters , and must contain a const0 .
+a string 10 or less special characters , letters or numbers not starting with a number or 3 const0 .
+the entire string must be less than , or equal to 10 characters . the string must not begin with a digit , or 3 consecutive const0 letters .
+a string can be any length , but it must have at least 1 special character and at least 1 letter . it can not start with 3 lowercase letters , and it can not end with a lowercase letter .
+we want to match strings where at least a special character and a letter is present . the strings are not allowed to start with 3 lowercase characters and also are not allowed to end with a lowercase character .
+the string can contain letters , digits , and special characters . it must have 3 const1 or 3 const2 and must have 3 const4 or 3 const5 . it can not start with const0 or const3 and can not end with a capital letter .
+the string does not have 2 capital letters .
+the string follows only 1 rule . it must not contain 2 consecutive capital letters .
+the string can contain special characters and letters . the string must start with a special character . all other special characters must follow a letter . the string ends with a letter .
+the string consists of special characters and letters and the special characters on the string should be placed after a letter . the string must not start with a letter and it should end either with a lowercase letter or a capital letter .
+the string has lowercase letters , special characters , capital letters and numbers . the string does not contain the letter const0 .
+a string with any combination of letters , numbers or characters except the letter const0 .
+the string consists of numbers and letter const0 and has 4 to 10 characters but does not contain the numbers const1 . the string does not start with a number .
+the string must not start with a digit and must not contain the digits const1 . the string may contain digits and the letter const0 . the overall length of the string is 4 to 10 .
+a string can be any length , but it must start with 3 capital letters , as any special characters must appear after a capital letter . capital letters , special characters , and const0 are allowed . it must have an const1 .
+a string with any combination of letters , numbers or special characters ending with a special character .
+single string must end with a special character
+we want to match strings that start with a number and end with either a special character or a number . furthermore , the string is not allowed to contain 1 of the character sequences const0 and const1 .
+the string must start with a digit . the string can contain letters , special characters , and digits . the string can not end on a letter . the string can not contain the letters const0 or const1 .
+we want to match all strings that follow these restrictions : a capital const0 and at least 1 digit must be present somewhere . and the strings are not allowed to contain 2 consecutive const1 symbols .
+a string consists of numbers , letters , and special characters . the string should have a capital letter const0 . it should also have any number . the string should not contain the const1 sign or the number 2 .
+in case the string has a special character it must be placed after a letter . the string should start with a number and it should not end with a capital letter or a special character .
+we want to match strings that start with a number and also end with either a number or a lowercase character . if any special characters are present the string they have to be prepended by a letter .
+a single string combination that consists of capitalized letters , only the combination const0 is not allowed at the beginning . the string must not contain a const3 and must not end with const1 and const2
+a string can be any length . it must contain 2 lowercase letters followed by a number . it also must end with 2 numbers , but not 2 const0 .
+we want to match any string that ends with 2 digits and somewhere contains 2 lowercase characters followed by a digit . the string is not allowed to end with the number const0 .
+all numbers and letters ( capitalized or not ) are allowed except for the string const0 . length can be 1 - 8 strings only . must contain a number and the strings const1 or const2
+a string of 8 or less numbers lowercase and capital letters . i can not have a const0 it must have a number and have const1 or const2 .
+the string has a length of either 10 characters or less than 10 characters and the string does not have numbers . the string must not end with a special character .
+a string consists of special characters and letters . the string can not include any numbers . it also can not end with a special character . it should be 10 or less in length .
+a string of numbers can be any length , but it can not contain const0 . it must end with a const1 .
+string of digits , const0 not allowed . must end with const1 .
+a string 4 or more characters long . ca not have const1 and must end with const2 and start with const0 .
+the string must begin with the letters const0 and end with const2 . the string must be greater than or equal to 4 characters . the digit const1 can not be in the string .
+this pattern matches any string that does not start with a letter , has a length equal or higher than 5 characters , and contains a lowercase letter .
+string is at least 5 characters long , must have a lowercase letter and can not start with a letter .
+the string may contain letters , digits and the special character const0 .
+this string pattern only allows letters , digits , and const0 special characters .
+a sequence that must allow letter and digit .
+the string consists of letters and digits .
+a string with any combination of numbers , letters or characters except 3 letters in a row .
+the string only follows 1 rule . it can not have 3 consecutive letters .
+a string consists of only 2 rules . it should not contain lowercase letters or begin with a special character .
+a string that can not begin with a special character and then is followed by characters that can not be lower case letters .
+the string contains a digit that can not be const0 at the start . this is followed by a character that is not a digit followed by a special character . there can be a letter and/or contain a special character .
+a string can be any length , but it must have at least 1 letter and 1 special character . numbers can not be followed by special characters . it must start with a number , but it can not start with const0 .
+a string of capital letters not containing the letters const0 or const1 .
+the string allows only capital letters to be used . it also does not allow the use of capital const1 or capital const0 .
+a string can be any length . it can use capital letters and const0 . it must start with const0 .
+the string has any number of capital letters and/or const0 . it must start with const0 .
+the entire string can contain only special characters and letters , no digits . the start of the string must be a letter and the end of the string must be either a const0 or const1 .
+a string is any length and can use special characters and letters . it must start with a letter and end with const0 or const1 .
+a string must have const0 any capital letter must appear after a number . special characters can not be followed by 2 lowercase letters .
+a string that should contain const0 . no special characters should be followed by 2 lowercase letters . when a capital letter is used , it should only be after a number .
+the start of the string can not be a letter . the string can not have more than 3 special characters . the string must have 2 const0 or 2 const1 characters . the string must contain const2 or const3 . the end of the string must end on a capital letter .
+a string not beginning with a letter . must end with a capital letter . must have 2 const0 or 2 const1 . must have const2 or const3 . ca not have 3 special characters .
+the string consists of capital letters , numbers , special characters and letter const0 . the string has either 9 characters or less than 9 characters . the string does not start with 2 capital letters .
+the string must have at least 1 letter in lowercase . the string may also contain special characters , digits and capital letters . the overall length of the string must not exceed 8 .
+this is only 1 string . this string contains the letters only this length was 6 to 8 .
+the string allows the use of only special characters and capital letters . the const0 sign is not allowed . also 2 capital letters must be used .
+the string has 1 or more characters of any type , but must start with a digit .
+this string must start with a digit
+a string that can not include 3 special characters followed by a capital letter
+a string of unspecified length not containing 3 special characters followed by a capital letter .
+the string has a lowercase letter followed by less than or equal to 8 characters that does not have a capitla letter . the last part of the string contains a digit that is not 2 .
+a string consist of digits only must have digit const2 , and can not have digit const1 . digits can not be placed in a way to form number const3 and must be have last digit const0 .
+a string can be any length , and it may use lowercase letters and special characters . it has to contain a const0 , and it may not contain a const1 . it must not end with 3 special characters .
+string of lowercase letters excepting const0 , or special characters excepting const1 . must not end in 3 special characters .
+this string must start with a lowercase letter but not const0 , use any combination of letters and special characters and not be longer than 9 characters .
+the entire string length must be less than or equal to 9 chracters . the first digit to start the string must be a lower case letter , but not contain a lowercase const0 . letters and special characters are allowed , but no digits .
+the string consists of capital letters . the string does not have the letter const1 but it contains either const2 or const3 and also it has the letter const4 . the string does not end with const0 .
+the string must contain only capital letters . the string should contain the letters const4 and const2 or const3 . the string must not contain the letter const1 . the string must not end with the letters const0 .
+a string consist of digits , upper and lowercase letters , and special characters . it must contain an const0 and have 3 capital letters and it can not end in a lowercase letter .
+a string of 4 or more that does not start const0 . the string contains lowercase letters except const1 , and ends with 3 capital letters .
+the entire string must be greater than or equal to 4 characters . the string can not start with a capital const0 the string must contain a lower case letter . the string can not contain a lower case const1 . the string must end with 3 capital letters .
