@@ -1,5 +1,7 @@
 # StructuredRegex
-Data and Code for StructuredRegex.
+Data and Code for paper **Benchmarking Multimodal Regex Synthesis with Complex Structures** . 
+
+(It is currently a preliminary release. Code for **HIT Generation and Figure Generation** comming soon. Please stay tuned if you're interested.)
 
 ## Data
 We provide *raw* data, *tokenized* data, and data with *anonymized* const strings.
@@ -15,5 +17,22 @@ All data is presented in **TSV** format, with fields including：
 * neg_examples -- negative examples.
 * const_values -- mapping from symbols to the real string values, only existing in anonymized version. 
 
-## Code
-Code cominig soon.
+## Code (Preliminary Release)
+#### Requirements
+* pytroch > 1.0.0
+
+We've attached pretrained checkpoints in `code/checkpoints/pretrained.tar`, which is ready to use. You can also reproduce the experimental results following the steps below (Please execute the commands in `code` directory)
+
+**Train** 
+
+`python train.py StReg --model_id <model_id>`. The models will be stored in `checkpoints/StReg` directory with names following model_id*.tar.
+
+**Decode**
+
+`python decode.py StReg <model_id> --split test*`. The derivations will be generated using the `checkpoints/StReg/<model_id>.tar` and be outputed to `decodes/StReg/` directory.
+
+**Evaluate**
+
+`python eval.py StReg <decode_id> --split test*`. Note that we report DFA accuracy (refer to the paper for more details).
+
+
