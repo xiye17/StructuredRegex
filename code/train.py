@@ -9,11 +9,7 @@ from gadget import *
 from models import *
 from data import *
 from utils import *
-from SynthCache import *
 import math
-from external.regexDFAEquals import dfa_eual_test
-
-cache = None
 
 def _parse_args():
     parser = argparse.ArgumentParser(description='main.py')
