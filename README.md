@@ -19,7 +19,7 @@ All data is presented in **TSV** format, with fields including：
 
 ## Code (Preliminary Release)
 #### Requirements
-* pytroch > 1.0.0
+* pytorch > 1.0.0
 
 We've attached pretrained checkpoints in `code/checkpoints/pretrained.tar`, which is ready to use. You can also reproduce the experimental results following the steps below (Please execute the commands in `code` directory)
 
