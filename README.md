@@ -1,8 +1,6 @@
 # StructuredRegex
 Data and Code for paper **Benchmarking Multimodal Regex Synthesis with Complex Structures** . 
 
-(It is currently a preliminary release. Code for **HIT Generation and Figure Generation** comming soon. Please stay tuned if you're interested.)
-
 ## Data
 We provide *raw* data, *tokenized* data, and data with *anonymized* const strings.
 
@@ -17,7 +15,7 @@ All data is presented in **TSV** format, with fields including：
 * neg_examples -- negative examples.
 * const_values -- mapping from symbols to the real string values, only existing in anonymized version. 
 
-## Code (Preliminary Release)
+## Code
 #### Requirements
 * pytorch > 1.0.0
 
@@ -34,5 +32,9 @@ We've attached pretrained checkpoints in `code/checkpoints/pretrained.tar`, whic
 **Evaluate**
 
 `python eval.py StReg <decode_id> --split test*`. Note that we report DFA accuracy (refer to the paper for more details).
+
+
+## Sampling Regexes and I/O Examples
+see README and `usage_exampke,.py` in `toolkit`.
 
 
