@@ -35,6 +35,8 @@ We've attached pretrained checkpoints in `code/checkpoints/pretrained.tar`, whic
 
 
 ## Sampling Regexes and I/O Examples
-see README and `usage_exampke,.py` in `toolkit`.
+see README and `usage_example.py` in `toolkit`.
 
+## Easy API for Checking Equivalence and I/O Consistency
+see  'easy_eval/usage_example.py`
 
