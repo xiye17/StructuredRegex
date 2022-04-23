@@ -89,12 +89,18 @@ def _parse_spec_toks_to_ast(tokens, cursor):
         raise RuntimeError('Not parsable', cur_tok)
     return node, cursor
 
+# pasre a specification to AST
 def parse_spec_to_ast(x):
     toks = tokenize_specification(x)
     ast = parse_spec_toks_to_ast(toks)
     assert x == ast.logical_form()
     return ast
 
+
+#  ASTNoode
+# node_class: the name of nonterminal or terminal
+# children: list of children nodes
+# params: intergers for repeat/repeatatleast/repeatrange
 class StRegNode:
     def __init__(self, node_class, children=[], params=[]):
         self.node_class = node_class
@@ -136,11 +142,18 @@ class StRegNode:
         else:
             return [self.node_class]
     
-    # some operators can't be converted: not, notcc, and
+    # some operators can't be converted: not, and
     def standard_regex(self):
         if self.node_class == '<let>':
             return '[A-Za-z]'
         elif self.node_class == '<num>':
             return '[0-9]'
+        elif self.node_class == 'concat':
+            return '(%s)(%s)' % (self.children[0].standard_regex(), self.children[1].standard_regex())
+        elif self.node_class == 'contain':
+            return '.*(%s).*' % (self.children[0].standard_regex())
+        elif self.node_class == 'repeatatleast':
+            return '(%s){%d,}' % (self.children[0].standard_regex(), self.params[0])
         else:
+            # add code for parsing other terminals and operators
             raise NotImplementedError('Please fill in')
