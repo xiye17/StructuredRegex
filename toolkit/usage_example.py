@@ -49,7 +49,7 @@ def sample_distinguish_examples(x):
     pos_examples = gen_hit_pos_exs(x)
     neg_examples = gen_hit_neg_exs(x)
     pos_examples = [(x,'+') for x in pos_examples]
-    neg_examples = [(x,'-') for x in pos_examples]
+    neg_examples = [(x,'-') for x in neg_examples]
     return pos_examples + neg_examples
 
 # Distingushing of examples as described in the paper
