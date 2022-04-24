@@ -89,7 +89,7 @@ def sample_random_examples_usage():
 # return the list of such examples
 # may return empty list when b is a superset of a, e.g., a == <low>, b == <let>
 # try to exchange a and b if that happens
-# if may also return empty list in some case even if b is not a super set of a due to low probabilitis of those differenting regexes (some subtle differences)
+# if may also return empty list in some case even if b is not a super set of a due to low probabilitis of those differentiating examples (some subtle differences)
 def sample_examples_to_differentiate_two_regexes(spec_a, spec_b):
     joint_spec = 'and({},not({}))'.format(spec_a, spec_b)
     examples = gen_random_examples(joint_spec, num_keep=100, num_gen=100)
