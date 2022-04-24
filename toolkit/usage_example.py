@@ -83,7 +83,26 @@ def sample_random_examples_usage():
     examples = sample_random_examples(regex)
     print(examples)
 
+
+# input, a specification a & and a specification b, make sure a and b aren't equivelant
+# sample differentiating examples that satisfies spec a, but dissatisfied spec b
+# return the list of such examples
+# may return empty list when b is a superset of a, e.g., a == <low>, b == <let>
+# try to exchange a and b if that happens
+# if may also return empty list in some case even if b is not a super set of a due to low probabilitis of those differenting regexes (some subtle differences)
+def sample_examples_to_differentiate_two_regexes(spec_a, spec_b):
+    joint_spec = 'and({},not({}))'.format(spec_a, spec_b)
+    examples = gen_random_examples(joint_spec, num_keep=100, num_gen=100)
+    examples = [x for x in examples if x[1] == '+']
+    return examples
+
+# sample differentiating examples to differetiate two regexes, the examples will satisify one but dissatisfy another
+def sample_differentiating_examples_usage():
+    print(sample_examples_to_differentiate_two_regexes('<let>','<cap>'))
+    print(sample_examples_to_differentiate_two_regexes('concat(repeatatleast(<let>,3),<num>)','concat(repeatatleast(<let>,4),<num>)'))
+
 if __name__ == '__main__':
     sample_regexes_usage()
     sample_distinguishing_exmples_usage()
     sample_random_examples_usage()
+    sample_differentiating_examples_usage()
